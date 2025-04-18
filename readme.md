@@ -16,7 +16,7 @@ Welcome to **The Echoes of the Mind** — a powerful backend application crafted
 
 ---
 
-## 🚀 Features
+## ✅ Features
 
 - 🔐 **User Authentication**  
   Secure login & registration using **JWT (JSON Web Tokens)**.
@@ -75,8 +75,7 @@ cd echoes-of-the-mind
 ```
 📦 Install Dependencies
 ```bash
-Copy
-Edit
+
 
 npm install
 ```
@@ -85,8 +84,7 @@ Create a .env file in the root directory:
 
 env
 ```bash
-Copy
-Edit
+
 
 PORT=3000
 
@@ -97,8 +95,7 @@ ACCESS_TOKEN_SECRET=your-access-token-secret
 ```
 ▶️ Start the Application
 ```bash
-Copy
-Edit
+
 npm start
 ```
 Now open http://localhost:3000 in your browser 🎉
