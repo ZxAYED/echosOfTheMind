@@ -72,28 +72,35 @@ Welcome to **The Echoes of the Mind** — a powerful backend application crafted
 ```bash
 git clone https://github.com/yourusername/echoes-of-the-mind.git
 cd echoes-of-the-mind
-
+```
 📦 Install Dependencies
-bash
+```bash
 Copy
 Edit
+
 npm install
+```
 ⚙️ Create Environment Variables
 Create a .env file in the root directory:
 
 env
+```bash
 Copy
 Edit
+
 PORT=3000
+
 MONGODB_URI=your-mongodb-uri
 JWT_SECRET=your-jwt-secret
 GEN_SALT=your-gen-salt
 ACCESS_TOKEN_SECRET=your-access-token-secret
+```
 ▶️ Start the Application
-bash
+```bash
 Copy
 Edit
 npm start
+```
 Now open http://localhost:3000 in your browser 🎉
 
 🧪 Usage Guide
